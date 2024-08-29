@@ -1,6 +1,8 @@
 # Shape Theory
 *A brief discussion on shape theory psychology* from childhood development and historical practices perspectives, by Andrew Kingdom.
 
+*** Need an introduction here to summarise the core thrusts of shape theory and tie general shape theory physchology to all the shapes mentioned herein. We also need an overall coherence to this text so as not to ramble aimlessly.
+
 ## Circles
 
 Nature has many rounded and curved surfaces, such as tree trunks, river-smoothed stones, bird eggs and so on. The earliest such shape a baby experiences is generally contact with a human face and body if breast-fed.
@@ -22,7 +24,7 @@ It takes time for the brain to integrate these visual experiences into a complet
 
 *Angled shapes* have been useful in human life throughout history. *Sharp shapes* in nature, such as branches of many plants, edges of rocks, and so on. We create *sharp edges* for cutting (from flint, metal, etc). Any *flat surface* we tend to decorate for recordkeeping or artwork purposes. *Right-angles* we use in building *walls*, which are generally formed around stable beams which are upright like trees. Likewise, we use right-angles for stackable bricks made from mud, clay or stone. Because of this, angled shapes such as cubes are strongly associated with manufacture, though curves can also require much work.
 
-<img alt="A child building a wobbly tower with wooden blocks, excitedly showing mother how tall it is." src="shapetheorypix/mothers-face-with-distant-arms-and-legs--andrew-kingdom.jpeg" style="width:12em;aspect-ratio:auto;border-radius:10px;"><img alt="A child building a wobbly tower with wooden blocks, excitedly showing mother how tall it is." src="shapetheorypix/right-angles-of-a-square-are-best-for-stable-buildings--andrew-kingdom.jpeg" style="width:12em;aspect-ratio:auto;border-radius:10px;"> Children learn that the right-angles of a square are generally best for stable building that won't fall down as quickly. Wooden building blocks are typically suitable for children starting from around 12 to 18 months old. At this age, children begin to develop the motor skills and coordination needed to stack and manipulate blocks.
+<img alt="A child building a wobbly tower with wooden blocks, excitedly showing mother how tall it is." src="shapetheorypix/child-building-wobbly-tower-with-mother-AK.png" style="width:12em;aspect-ratio:auto;border-radius:10px;"><img alt="A child building a wobbly tower with wooden blocks, excitedly showing mother how tall it is." src="shapetheorypix/right-angles-of-a-square-are-best-for-stable-buildings--andrew-kingdom.jpeg" style="width:12em;aspect-ratio:auto;border-radius:10px;"> Children learn that the right-angles of a square are generally best for stable building that won't fall down as quickly. Wooden building blocks are typically suitable for children starting from around 12 to 18 months old. At this age, children begin to develop the motor skills and coordination needed to stack and manipulate blocks.
 
 - 12 to 18 months: Children start to explore and stack blocks, usually building simple towers of a few blocks.
 - 18 to 24 months: Children improve their hand-eye coordination and may build taller towers and experiment with more complex structures.
@@ -31,6 +33,7 @@ It takes time for the brain to integrate these visual experiences into a complet
 Wooden building blocks continue to be a popular toy well into early childhood, as they promote fine motor skills, spatial reasoning, and creativity. 
 
 
+*** Needs lead-in and perspective here - we pick up on scribbling mentioned earlier and bring in all shapes for the purpose of discussing shapes as communications. This could be subsumed into the Circles section but it's possibly better as a section in its own right?
 
 Scribbling and Symbolic Development: Scribbling in early childhood reflects developmental milestones in motor skills and cognitive processes, including spatial awareness and symbolic representation. Research indicates that the progression from random scribbles to more recognizable shapes aligns with theories in developmental psychology that link motor activity with cognitive development. This stage is crucial for understanding how children conceptualize and externalize their perceptions of the world.
 
