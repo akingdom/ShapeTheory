@@ -55,7 +55,7 @@ Wooden building blocks continue to be a popular toy well into early childhood, a
 *Sharp shapes* in nature, such as branches of many plants, edges of rocks, and so on. We create *sharp edges* for cutting (from flint, metal, etc) because sharp angles are ideal for such a task. 
 
 <img alt="Photo of a closeup of a piece of honeycomb on a table with a wondering hungry african child reaching for iit, with reassuring parent in background" src="shapetheorypix/honeycomb-has-natural-hexagons-andrew-kingdom.jpeg" style="width:12em;aspect-ratio:auto;border-radius:10px;"><img alt="Photo. On a white table, a tall-vertical-hexagonal quartz crystal reflecting light, throwing a ((((distant)))) line of light on the table. The light focussed on the table is a coloured rainbow spectrum." src="shapetheorypix/quartz-crystals-are-a-natural-hexagon-andrew-kingdom.jpeg" style="width:12em;aspect-ratio:auto;border-radius:10px;"><br />
- Children learn that rain water falls best off an angled roof, like a triangle. 
+ Children learn from various sources in nature, that a hexagon is a strong, compact shape.
 
 ** Anything more useful to say?
 
