@@ -37,7 +37,7 @@ Hexagons are unique in their ability to combine the properties of both circles a
 ## Recordkeeping
 
 <img alt="European cave" src="shapetheorypix/caves-bafa5689-f9a6-4516-8692-4ee6ac1a1991.jpeg" style="width:12em;aspect-ratio:auto;border-radius:10px;"><img alt="Illustrated collection of common cave symbols from Europe" src="shapetheorypix/ancient-european-cave-symbols.png" style="width:12em;aspect-ratio:auto;border-radius:10px;"><img alt="Illustrated collection of common cave symbols from Europe, with some annotations" src="shapetheorypix/ancient-european-cave-symbols-annotated.png" style="width:12em;aspect-ratio:auto;border-radius:10px;"><br />
-*Ancient European symbolic shapes are twice as common as pictures that have survived, mostly in caves. Symbols collected in many cave visits by Genevieve von Petzinger. Interpretations are the author's (AK).*
+*Ancient European symbolic shapes are twice as common as pictures that have survived, mostly in caves. Symbols collected in many cave visits by Genevieve von Petzinger. The author (AK) has added some meanings and alphabetic letters, largely influenced by overlapping studies of Mediterranean alphabets. This has brought to life for me the skill and intelligence of these ancient artists.*
 
 *** Needs lead-in and perspective here - we pick up on scribbling mentioned earlier and bring in all shapes for the purpose of discussing shapes as communications of expression, and as a historical memory. This could be subsumed into the Circles section but it's possibly better as a section in its own right?
 
