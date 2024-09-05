@@ -11,7 +11,7 @@ Shape theory has evolved over time through contributions from various fields, in
 #### **Circles**:  
 
 
-Circles are one of the earliest shapes encountered by infants, primarily through the faces of caregivers and rounded objects in nature. A mother’s face, perceived up close, often appears as an oval or circle to a baby, fostering an early association with this shape. This familiarity explains why children’s initial drawings often feature circular scribbles. The development from scribbles to more structured circular representations reflects a child’s evolving motor skills and visual processing abilities. Historically, circles have been symbolic in various cultures, representing unity, continuity, and wholeness. The pervasive presence of circular forms, both in nature and human interaction, underpins the deep-seated comfort and affinity humans have for this shape.
+Circles are one of the earliest shapes encountered by infants, primarily through the faces of caregivers and rounded objects in nature. A mother’s face, perceived up close, often appears as an oval or circle to a baby, fostering an early association with this shape. Their mouth is like a circle. Later they see the moon and the sun as circles. Historically, circles have been symbolic in various cultures, representing unity, continuity, and wholeness. The pervasive presence of circular forms, both in nature and human interaction, underpins the deep-seated comfort and affinity humans have for this shape.
 
 #### **Squares**:  
 
